@@ -9,7 +9,7 @@ enabled = true
 [[d1_databases]]
 binding = "db"
 database_name = "cloud-mail-db"
-database_id = "89761f94-f02f-4930-9827-995a1e6bf04"
+database_id = "89761f94-f02f-4930-9827-9955a1e6bf04"
 
 [[kv_namespaces]]
 binding = "kv"
